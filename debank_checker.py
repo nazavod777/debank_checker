@@ -134,8 +134,8 @@ def wrapper(current_data) -> None:
 
 
 if __name__ == '__main__':
-    print('Telegram Channel - https://t.me/n4z4v0d\n')
-    print('Donate (any evm network) - 0xDEADf12DE9A24b47Da0a43E1bA70B8972F5296F2')
+    print('Telegram Channel - https://t.me/n4z4v0d')
+    print('Donate (any evm network) - 0xDEADf12DE9A24b47Da0a43E1bA70B8972F5296F2\n')
 
     Account.enable_unaudited_hdwallet_features()
 
